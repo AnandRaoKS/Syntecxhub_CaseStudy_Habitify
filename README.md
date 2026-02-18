@@ -31,14 +31,15 @@ Introduced a rank-based system to encourage streaks and rank remains saved to pr
 - Streak tracking interface
 - Rank progression display
 - Habit completion interaction states
-## License
-This project is shared for portfolio and educational purposes.
-Commercial use or development based on these designs without explicit written permission is prohibited.
 ## Links
 [Figma Prototype](https://www.figma.com/proto/TjrbeYwggfupD06MgIQ4so/Habitfy?node-id=10-2493&t=p3UPH6fHndZUYCgt-1)
 
 [Case Study](https://www.behance.net/gallery/244349535/Habitify-UX-Case-Study)
 
 [Assets](https://drive.google.com/drive/folders/1dHh-xwyeVWwUPhc2xdH4qNbCDdXuLnQu?usp=drive_link)
+## Licence
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+
+© 2026 Anand Rao
 
 
